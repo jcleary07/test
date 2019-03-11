@@ -1,0 +1,66 @@
+{
+  "_from": "cordova-plugin-googlemaps-master",
+  "_id": "cordova-plugin-googlemaps-master@1.3.9",
+  "_inBundle": false,
+  "_integrity": "sha1-dGntcIRkjEkoKYF9+NOngXjHe9Y=",
+  "_location": "/cordova-plugin-googlemaps-master",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-googlemaps-master",
+    "name": "cordova-plugin-googlemaps-master",
+    "escapedName": "cordova-plugin-googlemaps-master",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-googlemaps-master/-/cordova-plugin-googlemaps-master-1.3.9.tgz",
+  "_shasum": "7469ed7084648c492829817df8d3a78178c77bd6",
+  "_spec": "cordova-plugin-googlemaps-master",
+  "_where": "C:\\Users\\jclea\\Desktop\\Mobile Apps\\Week_4_Maps\\Week_4_Map",
+  "author": {
+    "name": "Masashi Katsumata, Hirbod Mirjavadi"
+  },
+  "bugs": {
+    "url": "https://github.com/mapsplugin/cordova-plugin-googlemaps/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "plugin.google.maps",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Google Maps native SDK for Android and iOS",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "homepage": "https://github.com/mapsplugin/cordova-plugin-googlemaps#readme",
+  "keywords": [
+    "google",
+    "maps",
+    "geo",
+    "google maps",
+    "nightstomp",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-googlemaps-master",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapsplugin/cordova-plugin-googlemaps.git"
+  },
+  "version": "1.3.9"
+}
